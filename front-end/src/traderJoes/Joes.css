@@ -1,0 +1,14 @@
+.Joes{
+    test-align:center;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    position: relative;
+}
+.verticalContainer{
+    position: absolute;
+    top:50%;
+    display: flex;
+
+}
